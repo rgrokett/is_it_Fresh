@@ -59,9 +59,9 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e75-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e75-a4ff-6f0cd50005f4",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_UNSIGNED_INT",
             "writeDataType": "ATMO_DATATYPE_UNSIGNED_INT",
@@ -163,17 +163,17 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e76-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e76-a4ff-6f0cd50005f1",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_FLOAT",
             "writeDataType": "ATMO_DATATYPE_FLOAT",
             "notifyDataType": "ATMO_DATATYPE_FLOAT"
           },
           "meta": {
-            "editorX": 607.5000610351562,
-            "editorY": 6,
+            "editorX": 356.50006103515625,
+            "editorY": 0,
             "lastTrigger": "written"
           },
           "triggers": {
@@ -267,17 +267,17 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e77-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e77-a4ff-6f0cd50005f2",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_FLOAT",
             "writeDataType": "ATMO_DATATYPE_FLOAT",
             "notifyDataType": "ATMO_DATATYPE_FLOAT"
           },
           "meta": {
-            "editorX": 308.50006103515625,
-            "editorY": 90,
+            "editorX": 355.50006103515625,
+            "editorY": 179,
             "lastTrigger": "written"
           },
           "triggers": {
@@ -371,17 +371,17 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e79-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e79-a4ff-6f0cd50005f3",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_UNSIGNED_INT",
             "writeDataType": "ATMO_DATATYPE_UNSIGNED_INT",
             "notifyDataType": "ATMO_DATATYPE_UNSIGNED_INT"
           },
           "meta": {
-            "editorX": 303.50006103515625,
-            "editorY": 351,
+            "editorX": 282.50006103515625,
+            "editorY": 355,
             "lastTrigger": "written"
           },
           "triggers": {
@@ -1415,8 +1415,8 @@
             "i2cAddress": "0x39"
           },
           "meta": {
-            "editorX": 182.16668701171875,
-            "editorY": 294,
+            "editorX": 161.16668701171875,
+            "editorY": 292,
             "lastTrigger": "ambientLightRead"
           },
           "triggers": {
@@ -1703,8 +1703,8 @@
             "tempCalibrationOffset": -7
           },
           "meta": {
-            "editorX": 184.3333740234375,
-            "editorY": 9,
+            "editorX": 165.3333740234375,
+            "editorY": 14,
             "lastTrigger": "humidityRead"
           },
           "triggers": {
@@ -1820,7 +1820,7 @@
             "operatingMode": "1"
           },
           "meta": {
-            "editorX": 164.3333740234375,
+            "editorX": 157.3333740234375,
             "editorY": 455,
             "lastTrigger": "TVOCRead"
           },
@@ -2177,11 +2177,11 @@
               "interval": false
             },
             "instance": 0,
-            "time": "500"
+            "time": "1000"
           },
           "meta": {
-            "editorX": 25.16668701171875,
-            "editorY": 378,
+            "editorX": 31.16668701171875,
+            "editorY": 379,
             "lastTrigger": "interval"
           },
           "triggers": {
@@ -3797,9 +3797,9 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e75-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e75-a4ff-6f0cd50005f4",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_UNSIGNED_INT",
             "writeDataType": "ATMO_DATATYPE_UNSIGNED_INT",
@@ -3886,9 +3886,9 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e76-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e76-a4ff-6f0cd50005f1",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_FLOAT",
             "writeDataType": "ATMO_DATATYPE_FLOAT",
@@ -3975,9 +3975,9 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e77-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e77-a4ff-6f0cd50005f2",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_FLOAT",
             "writeDataType": "ATMO_DATATYPE_FLOAT",
@@ -4064,9 +4064,9 @@
             },
             "instance": 0,
             "bleServiceUuid": "1493dd8e-8c3e-4e74-a4ff-6f0cd50005f9",
-            "bleCharacteristicUuid": "1493dd8e-8c3e-4e79-a4ff-6f0cd50005f9",
+            "bleCharacteristicUuid": "1493dd8e-8c3e-4e79-a4ff-6f0cd50005f3",
             "read": true,
-            "write": true,
+            "write": false,
             "notify": true,
             "readDataType": "ATMO_DATATYPE_UNSIGNED_INT",
             "writeDataType": "ATMO_DATATYPE_UNSIGNED_INT",
