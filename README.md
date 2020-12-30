@@ -1,5 +1,6 @@
 # is_it_Fresh
 ### Is it Fresh? -- Refrigerator Monitor using NXP Rapid IoT Device
+
 ![Is It Fresh](/beafraid.jpg)
 
 Use the [NXP Rapid IoT Prototyping Kit](https://www.nxp.com/support/developer-resources/rapid-prototyping/nxp-rapid-iot-prototyping-kit:IOT-PROTOTYPING) to monitor the environment inside your refrigerator, reporting interior temperature, humidity and air quality. By just placing the unit on a shelf in your refrigerator, you can monitor the interior using your smartphone or tablet. 
